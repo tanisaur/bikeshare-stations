@@ -64,10 +64,8 @@ Column Name |	Description|
 
 # Getting Started
 
-### To replicate
+### To replicate clone the Repository:
 ```
-Clone the Repository:
-
 git clone https://github.com/tanisaur/bikeshare-stations.git
 cd bikeshare-stations
 ```
@@ -75,7 +73,6 @@ cd bikeshare-stations
 Ensure you have Pipenv installed on your system. If it’s not installed yet, you can install it using pip:
 ``` 
 pip install pipenv
-
 ```
 
 ### Create Pipfile
@@ -84,14 +81,12 @@ Navigate to the directory where train.py and predict.py scripts are located and 
 
 ``` 
 pipenv install
-
 ```
 
 ### Train Model
 
 ``` 
 python train.py --data_path path/to/bikeshare_data.parquet
-
 ```
 
 ### Run the Flask app
