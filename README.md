@@ -43,19 +43,19 @@ Column Name |	Description|
 
 ### 📈 Key Insights
 
-- Many bikes are not locked at stations:
+- Many bikes are not locked at stations: <br>
     The are a large number of bikes not being locked up at stations, especially more so when ending a trip. Meaning either there was no bike station available or it was full.
 
--  Time of day influence usage:
+-  Time of day influence usage: <br>
     Weekday evenings the hour of 5pm is the most used times for bikes.
 
--  Busiest Month:
+-  Busiest Month: <br>
     Trips steadily increased throughout the year reaching its peak in October, with over 700,000 trips taken.   
 
-- Most Frequented Starting and Ending Station:
+- Most Frequented Starting and Ending Station: <br>
     The most frequently used station is  Columbus Circle / Union Station.
 
-- Least Frequented Starting and Ending Station:
+- Least Frequented Starting and Ending Station: <br>
     The least frequently used station is Ring Rd & North Shore Dr.
 
 ### 🤖 Random Forest Model vs. XGBoost
