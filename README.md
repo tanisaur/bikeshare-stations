@@ -94,3 +94,13 @@ python train.py --data_path path/to/bikeshare_data.parquet
 ``` 
 python predict.py
  ```
+## How to Build and Run the Docker Image
+
+### Build the Docker Image
+```
+docker build -t flask-app .
+```
+### Run the Container
+```
+docker run -p 5000:5000 flask-app
+```
