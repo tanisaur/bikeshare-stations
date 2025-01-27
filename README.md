@@ -57,8 +57,8 @@ Column Name |	Description|
     The least frequently used station is Ring Rd & North Shore Dr.
 
 ### 🤖 Random Forest Model vs. XGBoost
-|    |MAE |	MSE | R^2 | 
-| ------ | ------ | ------ | 
+|------ |MAE |	MSE | R^2 | 
+| ------ | ------ | ------ | ------ | 
 | Random Forest | 0.09641000835% | 0.11119595421%| 99.84704785555573% |
 | XGBoost	| 0.93672946095%	| 0.21088903304% |	99.7099161148% |
 
