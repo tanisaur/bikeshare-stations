@@ -1,5 +1,7 @@
 # Capital Bikeshare Station Optimization
 
+![](https://ehq-production-us-california.imgix.net/8e99a9b5c3a7d7b7f21e4de60a1590a0047dc1a0/original/1648656975/9d18f654954b781418520d665f59eeae_blob?1648656975-unsplash--undefined&auto=compress%2Cformat&)
+
 Capital Bikeshare is a bikeshare company that services the Washington DC metropolitan area. 
 
 ### Problem: Which stations are underperforming or overburdened?
